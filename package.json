@@ -41,5 +41,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/martinsorhus/learning-redux_streamy.git",
+  "author": "<sorhus.martin@gmail.com>",
+  "license": "MIT"
 }
